@@ -1,0 +1,89 @@
+h1{
+    height: 50px;
+    width: 400px;
+    color: red;
+    border: solid black ;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: greenyellow;
+    
+}
+
+.abc{
+    height: 500px;
+    width: 500px;
+    border: solid black;
+    margin: 0 auto;
+    display:block;
+    background-color: gray;
+
+}
+#Na{
+    margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%;
+
+}
+#Name{
+    margin-left: 35px;
+    height: 25px;
+    width: 300px;
+    text-align: left;
+}
+#ID{
+    margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%;
+
+}
+#IDN{
+    margin-left: 35px;
+    height: 25px;
+    width: 300px;
+    text-align: left;
+}
+#Email{
+    margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%;
+
+}
+#Emaill{
+    margin-left: 35px;
+    height: 25px;
+    width: 300px;
+    text-align: left;
+}
+#Phone{
+    margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%;
+}
+#phone{
+    margin-left: 35px;
+    height: 25px;
+    width: 300px;
+    text-align: left;
+}
+#submit{
+    margin-left: 410px;
+    margin-top: 40px;
+}
+#photo-text{
+  margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%; 
+}
+#Photo{
+    margin-left: 35px;
+    display: block;
+    text-align: left;
+    width: 100%;
+}
